@@ -1,12 +1,12 @@
 const Index = () => {
     return (
         <p id="zero-state">
-            This is a demo for React Router.
+            IPA Contacts App.
             <br />
-            Check out{" "}
-            <a href="http://reactrouter.com">
+            Click "New" to create a contact
+{/*             <a href="http://reactrouter.com">
                 the docs at reactrouter.com
-            </a>
+            </a> */}
             .
         </p>
     )
